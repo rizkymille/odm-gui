@@ -8,7 +8,7 @@ from opendm import system
 from opendm import io
 from opendm.progress import progressbc
 from opendm.utils import get_processing_results_paths, rm_r
-from opendm.loghelpers import args_to_dict
+from opendm.arghelpers import args_to_dict
 
 from stages.odm_app import ODMApp
 
